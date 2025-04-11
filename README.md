@@ -1,2 +1,3 @@
 # todoapp
-<img width="1436" alt="Screenshot 2025-04-11 at 7 36 57 PM" src="https://github.com/user-attachments/assets/97983860-ec7a-465d-aebe-2f1874085212" />
+
+<img width="1440" alt="Screenshot 2025-04-11 at 7 37 54 PM" src="https://github.com/user-attachments/assets/724fee1b-3719-44ec-a654-ae8d5c099a48" />
