@@ -1,0 +1,18 @@
+# Node modules (redundant if client/server also ignore it, but safe here)
+**/node_modules/
+
+# Logs
+**/*.log
+*.log
+npm-debug.log*
+
+# macOS system files
+.DS_Store
+
+# IDE stuff
+.vscode/
+.idea/
+
+# Environment files (if you keep envs at root)
+.env
+.env.*
